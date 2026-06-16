@@ -4,5 +4,5 @@ pandas
 matplotlib
 seaborn
 scikit-learn
-tensorflow
 joblib
+tensorflow==2.16.1
